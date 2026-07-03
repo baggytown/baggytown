@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write # Crucial: Allows the action to save the GIF to your repo
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@main
