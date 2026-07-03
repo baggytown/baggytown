@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris.svg">
+  <img alt="github contribution grid tetris" src="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris.svg">
+</picture>
 
 <!--
 **baggytown/baggytown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
