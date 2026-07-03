@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Space Shooter](./gh-space-shooter.gif)
 <!--
 **baggytown/baggytown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
