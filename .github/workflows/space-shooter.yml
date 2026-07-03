@@ -1,0 +1,24 @@
+name: Generate Space Shooter Game
+
+on:
+  # Runs automatically every day at midnight
+  schedule:
+    - cron: '0 0 * * *'
+  # Allows you to manually trigger it from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: Allows the action to save the GIF to your repo
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@main
+        with:
+          username: ${{ github.repository_owner }}
+          output-path: 'gh-space-shooter.gif'
+          strategy: 'random' # Options: 'column', 'row', or 'random'
+          fps: '40'
