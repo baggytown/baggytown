@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+## pls give no job offers
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris-dark.svg">
