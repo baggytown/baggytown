@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Commit Grid Map](https://githubusercontent.com)
+
 
 
 <!--
