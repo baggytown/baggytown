@@ -1,7 +1,7 @@
 ## Hi there 
 ## pls give no job offers
 
-![My GitHub Game](game.gif)
+![](https://githubusercontent.com)
 
 <!--
 **baggytown/baggytown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
