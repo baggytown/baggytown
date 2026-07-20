@@ -1,5 +1,6 @@
 ## Hi there 
-## pls give no job offers
+## HI AGAIN AND WHY ARE YOU HERE GO CHECK OUT MY PROJECTS DUMMY
+## OR WHY ELSE DO YOU WANT TO BE HERE
 
 ![GitHub Space Shooter](./gh-space-shooter.gif)
 
